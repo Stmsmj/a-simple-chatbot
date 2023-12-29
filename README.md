@@ -15,7 +15,7 @@ if you see any error in pip installing just do it one by one
 
 ## instruction
 the size of model for image classification was 3 Gigabyte so i couldn't upload it here so if you want this feature you need to train it yourself 🙂. you can fine tune it and if you got a better results just make a contribution 🤝.
-if you dont want this feature just comment these lines `189,191,208-216,287,303` 
+if you dont want this feature just comment these lines `189,191,208-216,287,303` and run `interact.py`
 and if you want this feature you need to do these steps:
 + download [dataset](https://web.mit.edu/torralba/www/indoor.html)
 + extract it and copy `Image` folder to `a simple chatbot`
